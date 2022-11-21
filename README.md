@@ -56,16 +56,16 @@
         </section>
         <section class="wawd">
             <h2 class="wawdteam">What Are We Doing</h2>
-            <img class="imgone" src="images/image.jpg" alt="">
-            <img class="imgtwo" src="images/image (1).jpg" alt="">
-            <img class="imgthree" src="images/image (2).jpg" alt="">
+            <img class="imgone" src="images/image.jpg" alt="computer">
+            <img class="imgtwo" src="images/image (1).jpg" alt="phone">
+            <img class="imgthree" src="images/image (2).jpg" alt="information in phone">
         </section>
         <section>
             <h2 class="wawdteam">Our Team</h2>
-            <img src="images/image (3).jpg" alt="">
-            <img src="images/image (4).jpg" alt="">
-            <img src="images/image (5).jpg" alt="">
-            <img src="images/image (6).jpg" alt="">
+            <img src="images/image (3).jpg" alt="man">
+            <img src="images/image (4).jpg" alt="man">
+            <img src="images/image (5).jpg" alt="women">
+            <img src="images/image (6).jpg" alt="man">
         </section>
         <footer>
             <a class="wstudio" href=""><span class="web">Web</span><span class="studio">Studio</span></a>
